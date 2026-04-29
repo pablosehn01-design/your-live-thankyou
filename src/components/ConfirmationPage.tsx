@@ -30,7 +30,7 @@ const ConfirmationPage = () => {
             </p>
 
             <p className="text-base md:text-lg text-muted-foreground leading-relaxed max-w-lg">
-              Agora falta só seguir os próximos passos para garantir que você receba todos os avisos e participe ao vivo no dia 20 de maio.
+              Agora falta só você clicar no botão abaixo, entrar em nosso grupo de WhatsApp para deixar sua vaga 100% confirmada.
             </p>
 
             {/* Workshop card */}
