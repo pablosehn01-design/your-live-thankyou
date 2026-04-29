@@ -13,7 +13,9 @@ const ConfirmationPage = () => {
           </span>
         </div>
         <a
-          href="#whatsapp"
+          href="https://chat.whatsapp.com/CXMw5cUZvl4HqYnbIklTK7"
+          target="_blank"
+          rel="noopener noreferrer"
           className="bg-gradient-primary text-primary-foreground font-semibold px-5 py-2.5 md:px-7 md:py-3 rounded-lg text-sm md:text-base hover:shadow-glow transition-all duration-300"
         >
           Inscreva-se
@@ -120,7 +122,9 @@ const ConfirmationPage = () => {
             {/* WhatsApp CTA */}
             <a
               id="whatsapp"
-              href="#"
+              href="https://chat.whatsapp.com/CXMw5cUZvl4HqYnbIklTK7"
+              target="_blank"
+              rel="noopener noreferrer"
               className="bg-gradient-primary text-primary-foreground font-bold text-base md:text-xl py-5 md:py-6 px-6 rounded-2xl flex items-center justify-center gap-3 hover:shadow-glow hover:scale-[1.01] transition-all duration-300"
             >
               <MessageCircle className="w-6 h-6 md:w-7 md:h-7 fill-primary-foreground" strokeWidth={2} />
