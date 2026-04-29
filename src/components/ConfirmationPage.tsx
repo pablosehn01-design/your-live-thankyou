@@ -12,14 +12,6 @@ const ConfirmationPage = () => {
             Estratégia <span className="text-primary">•</span> Dados <span className="text-primary">•</span> Resultados
           </span>
         </div>
-        <a
-          href="https://chat.whatsapp.com/CXMw5cUZvl4HqYnbIklTK7"
-          target="_blank"
-          rel="noopener noreferrer"
-          className="bg-gradient-primary text-primary-foreground font-semibold px-5 py-2.5 md:px-7 md:py-3 rounded-lg text-sm md:text-base hover:shadow-glow transition-all duration-300"
-        >
-          Inscreva-se
-        </a>
       </header>
 
       {/* Hero */}
