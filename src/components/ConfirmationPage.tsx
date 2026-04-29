@@ -13,7 +13,9 @@ const ConfirmationPage = () => {
           </span>
         </div>
         <a
-          href="#whatsapp"
+          href="https://chat.whatsapp.com/CXMw5cUZvl4HqYnbIklTK7"
+          target="_blank"
+          rel="noopener noreferrer"
           className="bg-gradient-primary text-primary-foreground font-semibold px-5 py-2.5 md:px-7 md:py-3 rounded-lg text-sm md:text-base hover:shadow-glow transition-all duration-300"
         >
           Inscreva-se
