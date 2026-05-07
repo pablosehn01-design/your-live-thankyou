@@ -114,7 +114,7 @@ const ConfirmationPage = () => {
             {/* WhatsApp CTA */}
             <a
               id="whatsapp"
-              href="https://chat.whatsapp.com/CXMw5cUZvl4HqYnbIklTK7"
+              href="https://chat.whatsapp.com/BRtKGO43kb6BZdEvjhV1TL?mode=gi_t"
               target="_blank"
               rel="noopener noreferrer"
               className="bg-gradient-primary text-primary-foreground font-bold text-base md:text-xl py-5 md:py-6 px-6 rounded-2xl flex items-center justify-center gap-3 hover:shadow-glow hover:scale-[1.01] transition-all duration-300"
